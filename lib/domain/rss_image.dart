@@ -1,4 +1,4 @@
-import 'package:webfeed/util/helpers.dart';
+import 'package:webfeed_dart2/util/helpers.dart';
 import 'package:xml/xml.dart';
 
 class RssImage {

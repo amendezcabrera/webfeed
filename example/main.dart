@@ -1,5 +1,5 @@
 import 'package:http/http.dart' as http;
-import 'package:webfeed/webfeed.dart';
+import 'package:webfeed_dart2/webfeed_dart2.dart';
 
 void main() {
   var client = new http.Client();
